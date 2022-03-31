@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Jonathon Hughes
-  - I'm full stack developer working with React, Typescript, Node, Python.
+  - I'm a full stack developer working with React, Typescript, Node, Python.
 - 👀 I’m interested in ...
-  - Building Simplified UI 
+  - Building Simplified UI that inspire change,
   - Serverless approaches to ML deployment. 
-  - 
 - 🌱 I’m currently learning ...
   - Solidity
   - Graph Neural Networks
+  - Pyschology of UI/UX 
 - 💞️ I’m looking to collaborate on ...
   - Web3 for Education 
 - 📫 How to reach me ...
